@@ -5,7 +5,7 @@
   <artifactId>familyEducation</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>familyEducation1 Maven Webapp</name>
+  <name>familyEducation Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <!-- https://mvnrepository.com/artifact/javax/javaee-api -->
